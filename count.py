@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+"""This will take an input and print out the amount of nucletides in A,C,G,T order"""
 from collections import Counter
 from sys import argv
 
